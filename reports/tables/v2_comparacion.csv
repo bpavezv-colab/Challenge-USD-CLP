@@ -1,0 +1,16 @@
+periodo,estrategia,jornadas,retorno_neto_%,retorno_anual_neto_%,sharpe_neto,max_dd_%,dias_activos_%,acierto_dias_activos_%,operaciones
+Desarrollo 2013-2022,v2,2511,184.246,18.491,1.369,-13.91,73.915,54.364,1259
+Desarrollo 2013-2022,v1 (oficial),2511,149.348,14.988,1.089,-31.109,74.114,54.487,1174
+Desarrollo 2013-2022,Comprar siempre,2511,40.727,4.087,0.338,-26.006,100.0,50.339,1
+Desarrollo 2013-2022,No operar nunca,2511,0.0,0.0,,0.0,0.0,,0
+Desarrollo 2013-2022,Exposicion uno,2511,91.371,9.17,0.76,-29.988,100.0,53.644,1069
+Fuera de muestra 2023 - 5-oct-2026,v2,952,16.987,4.496,0.309,-35.876,68.592,52.221,438
+Fuera de muestra 2023 - 5-oct-2026,v1 (oficial),952,7.653,2.026,0.142,-38.797,70.063,50.375,424
+Fuera de muestra 2023 - 5-oct-2026,Comprar siempre,952,7.684,2.034,0.159,-17.876,100.0,50.42,1
+Fuera de muestra 2023 - 5-oct-2026,No operar nunca,952,0.0,0.0,,0.0,0.0,,0
+Fuera de muestra 2023 - 5-oct-2026,Exposicion uno,952,5.865,1.553,0.121,-39.701,100.0,53.361,406
+Seguimiento 6-oct - ultimo dato,v2,22,-1.277,-14.625,-1.838,-2.179,77.273,47.059,16
+Seguimiento 6-oct - ultimo dato,v1 (oficial),22,-0.762,-8.732,-0.845,-1.973,50.0,54.545,12
+Seguimiento 6-oct - ultimo dato,Comprar siempre,22,0.43,4.93,0.429,-3.012,100.0,59.091,1
+Seguimiento 6-oct - ultimo dato,No operar nunca,22,0.0,0.0,,0.0,0.0,,0
+Seguimiento 6-oct - ultimo dato,Exposicion uno,22,-2.139,-24.505,-2.161,-2.78,100.0,40.909,11

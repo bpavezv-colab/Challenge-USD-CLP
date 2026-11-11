@@ -1,0 +1,16 @@
+{
+  "version": "v2 (produccion)",
+  "fecha_decision": "2026-11-06",
+  "jornada_objetivo": "2026-11-09",
+  "spot_cierre": 978.5,
+  "direccion_esperada": "sube",
+  "probabilidad_alza_modelo": 0.5029,
+  "probabilidad_alza_suavizada": 0.5122,
+  "posicion_sugerida": 1,
+  "lectura": "comprado 1x",
+  "motivo": "conviccion sobre el umbral de abstencion",
+  "ic_reciente_modelo": 0.0424,
+  "umbral_abstencion": 0.0044,
+  "umbral_exposicion_maxima": 0.0286,
+  "carry_estimado_pb_dia": 0.161
+}

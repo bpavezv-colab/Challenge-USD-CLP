@@ -1,0 +1,12 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+lightgbm>=4.0
+matplotlib>=3.8
+openpyxl>=3.1
+pyarrow>=14
+pytest>=7
+jupyter>=1.0
+nbconvert>=7
+ipykernel>=6

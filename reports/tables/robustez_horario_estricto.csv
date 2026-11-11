@@ -1,0 +1,3 @@
+,dias,retorno_total_%,retorno_anual_%,vol_anual_%,sharpe,max_drawdown_%,calmar,acierto_dias_activos_%,dias_activos_%,dias_con_posicion,operaciones,operaciones_por_ano,exposicion_media_abs,rotacion_anual,costos_anual_%
+Estricto (series de NY/Londres rezagadas 1 dia),952.0,-7.995,-2.116,13.688,-0.155,-43.701,-0.048,49.495,51.996,495.0,345.0,91.324,0.657,142.147,5.686
+Estricto - desarrollo,2511.0,-49.347,-4.952,13.449,-0.368,-76.839,-0.064,51.04,57.427,1442.0,823.0,82.595,0.669,112.0,4.48

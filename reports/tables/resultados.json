@@ -1,0 +1,92 @@
+{
+  "calidad_prediccion_oos": {
+    "AUC": 0.5506193610988708,
+    "Brier modelo": 0.2482559386163125,
+    "Brier p=0.5": 0.25,
+    "Brier climatologia": 0.2502451033017453,
+    "LogLoss modelo": 0.6896429473332286,
+    "LogLoss p=0.5": 0.6931471805599453,
+    "Acierto direccional %": 53.270042194092824
+  },
+  "deflated_sharpe_oos": {
+    "n_ensayos": 400,
+    "sharpe_umbral_anual": 0.6826445687643181,
+    "PSR_vs_0": 0.6091073572630886,
+    "DSR": 0.1463374916295226
+  },
+  "periodo_oos": [
+    "2023-01-01",
+    "2026-10-05"
+  ],
+  "costo_pb": 4.0,
+  "parametros_estrategia": {
+    "smooth_span": 3,
+    "q1": 0.2,
+    "big_q": 0.9,
+    "big_ic": 0.05,
+    "size_lookback": 250,
+    "gate_window": 250,
+    "gate_min": 0.0,
+    "agree_filter": false,
+    "vol_cap_q": null,
+    "vol_off_q": null
+  },
+  "metricas_oos": {
+    "Estrategia": {
+      "Retorno anual bruto %": 8.5375,
+      "Retorno anual neto %": 2.0258,
+      "Retorno total neto %": 7.6529,
+      "Volatilidad anual %": 14.2408,
+      "Sharpe neto": 0.1423,
+      "Max drawdown %": -38.7967,
+      "Acierto dias activos %": 50.3748,
+      "Dias activos %": 70.063,
+      "Operaciones": 424.0,
+      "Exposicion media |x|": 0.8288,
+      "Rotacion anual (x nocional)": 162.7941,
+      "Costos anuales %": 6.5118
+    },
+    "Comprar siempre": {
+      "Retorno anual bruto %": 2.0446,
+      "Retorno anual neto %": 2.034,
+      "Retorno total neto %": 7.6841,
+      "Volatilidad anual %": 12.8014,
+      "Sharpe neto": 0.1589,
+      "Max drawdown %": -17.8761,
+      "Acierto dias activos %": 50.4202,
+      "Dias activos %": 100.0,
+      "Operaciones": 1.0,
+      "Exposicion media |x|": 1.0,
+      "Rotacion anual (x nocional)": 0.2647,
+      "Costos anuales %": 0.0106
+    },
+    "No operar nunca": {
+      "Retorno anual bruto %": 0.0,
+      "Retorno anual neto %": 0.0,
+      "Retorno total neto %": 0.0,
+      "Volatilidad anual %": 0.0,
+      "Sharpe neto": NaN,
+      "Max drawdown %": 0.0,
+      "Acierto dias activos %": NaN,
+      "Dias activos %": 0.0,
+      "Operaciones": 0.0,
+      "Exposicion media |x|": 0.0,
+      "Rotacion anual (x nocional)": 0.0,
+      "Costos anuales %": 0.0
+    },
+    "Exposicion uno (signo del modelo)": {
+      "Retorno anual bruto %": 10.1397,
+      "Retorno anual neto %": 1.5526,
+      "Retorno total neto %": 5.8655,
+      "Volatilidad anual %": 12.8169,
+      "Sharpe neto": 0.1211,
+      "Max drawdown %": -39.7013,
+      "Acierto dias activos %": 53.3613,
+      "Dias activos %": 100.0,
+      "Operaciones": 406.0,
+      "Exposicion media |x|": 1.0,
+      "Rotacion anual (x nocional)": 214.6765,
+      "Costos anuales %": 8.5871
+    }
+  }
+}

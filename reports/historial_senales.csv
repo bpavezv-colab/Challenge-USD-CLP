@@ -1,0 +1,3 @@
+fecha_decision,jornada_objetivo,spot_cierre,direccion_esperada,probabilidad_alza_modelo,probabilidad_alza_suavizada,posicion_sugerida,lectura,motivo,ic_reciente_modelo,umbral_abstencion,umbral_exposicion_maxima,carry_estimado_pb_dia,version
+2026-10-26,2026-10-27,989.83,baja,0.4885,0.4999,0,fuera del mercado (en pesos),conviccion bajo el umbral: la ventaja no compensa el costo de operar,0.0563,0.0055,0.0362,0.161,
+2026-11-06,2026-11-09,978.5,sube,0.5029,0.5122,1,comprado 1x,conviccion sobre el umbral de abstencion,0.0424,0.0044,0.0286,0.161,v2 (produccion)

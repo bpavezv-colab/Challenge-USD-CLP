@@ -1,0 +1,6 @@
+,OOS retorno_anual_%,OOS sharpe,OOS max_drawdown_%,DEV retorno_anual_%,DEV sharpe,DEV max_drawdown_%
+Final,2.026,0.142,-38.797,14.988,1.089,-31.109
+Sin compuerta,4.23,0.289,-33.748,15.575,1.106,-27.078
+Sin suavizado,2.876,0.204,-33.58,5.347,0.396,-46.519
+Sin exposicion 3,-1.476,-0.135,-37.277,10.604,1.031,-30.537
+Sin abstencion (q1=0),2.994,0.197,-41.881,15.298,1.036,-38.794

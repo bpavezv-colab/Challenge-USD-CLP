@@ -1,0 +1,8 @@
+,DEV retorno neto anual %,DEV Sharpe neto,DEV max DD %,DEV % dias vendido,OOS retorno neto anual %,OOS Sharpe neto,OOS max DD %,OOS % dias vendido
+"Oficial (v1, vida media 3 anos)",14.99,1.09,-31.11,42.09,2.03,0.14,-38.8,46.43
+Vida media 1 anos,8.71,0.72,-25.68,29.11,1.14,0.09,-42.86,35.82
+Vida media 0.5 anos,5.76,0.53,-26.36,27.4,2.11,0.15,-30.94,28.99
+Combinacion: mejor Brier ultimas 120 jornadas,9.26,0.72,-45.49,32.34,2.44,0.18,-36.54,38.87
+Combinacion: promedio simple,8.55,0.7,-28.3,30.74,-0.52,-0.04,-42.32,35.71
+Sin sesgo direccional (resta media movil 60),12.67,0.86,-33.82,38.43,6.22,0.42,-35.24,38.66
+Sin sesgo direccional (resta media movil 250),12.81,0.87,-42.91,37.87,5.86,0.46,-33.48,34.87

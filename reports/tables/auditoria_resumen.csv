@@ -1,0 +1,7 @@
+,hallazgo
+1_observado,"Correlacion de variaciones 2000-2026: vs spot del mismo dia 0.05, vs spot del dia anterior 0.73. El observado publicado en t refleja la jornada t-1: no sirve para definir el retorno y es redundante como variable."
+2_regimen,Banda cambiaria hasta sep-1999: 1990-1991 tienen 95% y 73% de dias sin variacion; desde 2004 la proporcion es ~0-3%. El entrenamiento parte en 2005.
+3_intradia,Maximo = minimo en 100% de los dias 1990-2003 y en 1.2% desde 2004. Las variables de rango intradia solo se usan desde 2004.
+4_quiebres,"CHON (real, UF) y CHOVCHOV (nominal) el 2001-08-09: 3.50% vs 6.50%: no se empalman. USDBRL antes de 1994 (cruzeiro/cruzeiro real) y WTI negativo (2020-04-20) quedan fuera de la ventana o sin log. GTCLP: PX_LAST es tasa, no precio."
+5_huecos,"19 saltos >5 dias en USDCLP, casi todos entre nov-2011 y oct-2012 (serie con ~120 jornadas faltantes); 671 cotizaciones rancias (retorno y rango cero, tipicamente feriados chilenos). Se excluyen del entrenamiento; el arrastre de datos se corta a las 5 jornadas para no fabricar datos."
+6_disponibilidad,"Macro: rezago mediano de publicacion IMACEC ~34 dias, IPC ~8 dias; se ubican en su FECHA_RELEASE. Flujos BCCh: correlacion con el retorno del mismo dia -0.39 (seria fuga si no se rezaga); la extraccion trae el dato hasta un dia antes que el resto, se usan con 2 jornadas de rezago. SOFR/Fed funds se publican al dia siguiente: 1 jornada de rezago."

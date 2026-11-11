@@ -1,0 +1,5 @@
+,Retorno anual bruto %,Retorno anual neto %,Retorno total neto %,Volatilidad anual %,Sharpe neto,Max drawdown %,Acierto dias activos %,Dias activos %,Operaciones,Exposicion media |x|,Rotacion anual (x nocional),Costos anuales %
+Estrategia,21.833,14.988,149.348,13.759,1.089,-31.109,54.487,74.114,1174.0,0.898,171.111,6.844
+Comprar siempre,4.091,4.087,40.727,12.08,0.338,-26.006,50.339,100.0,1.0,1.0,0.1,0.004
+No operar nunca,0.0,0.0,0.0,0.0,,0.0,,0.0,0.0,0.0,0.0,0.0
+Exposicion uno (signo del modelo),17.749,9.17,91.371,12.072,0.76,-29.988,53.644,100.0,1069.0,1.0,214.466,8.579

@@ -1,0 +1,5 @@
+,jornadas,resultado_neto_%,resultado_bruto_%,costos_%,dias_activos,acierto_dias_activos_%
+Estrategia,22.0,-0.722,-0.282,0.44,11.0,54.545
+Comprar siempre,22.0,0.47,0.47,0.0,22.0,59.091
+No operar nunca,22.0,0.0,0.0,0.0,0.0,
+Exposicion uno (signo del modelo),22.0,-2.099,-1.299,0.8,22.0,40.909

@@ -1,0 +1,11 @@
+{
+  "modelo": "reg",
+  "acuerdo": false,
+  "volatilidad": "sin_x3_p80_fuera_p95",
+  "sharpe": 1.3691749559713235,
+  "retorno_anual_%": 18.49059315558955,
+  "max_drawdown_%": -13.910382733981352,
+  "dias_activos_%": 73.91477499004381,
+  "anos_positivos": 10,
+  "peor_ano_%": 2.835298420755609
+}
