@@ -1,6 +1,6 @@
 # ¿Sube o baja el dólar mañana? Informe técnico
 
-**Torneo de Trading FEN – Banco Itaú 2026 · Data Science en Finanzas**
+**Torneo FEN – Banco Itaú 2026 · Data Science en Finanzas**
 
 Un modelo probabilístico de la dirección del USD/CLP a un día, traducido a exposiciones de −3, −1, 0, +1 o +3 veces el nocional, evaluado neto de carry y costos y con pruebas de significancia.
 
