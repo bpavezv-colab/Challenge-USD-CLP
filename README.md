@@ -45,6 +45,29 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Alternativa sin Git: descargar el ZIP (Windows)
+
+1. **Descargar el proyecto.** En la página del repositorio: botón verde **Code → Download ZIP**.
+2. **Descomprimir.** Clic derecho sobre `Challenge-USD-CLP-main.zip` → **Extraer todo**. Entra a la carpeta `Challenge-USD-CLP-main`; si adentro hay otra carpeta con el mismo nombre, entra también a esa. Estás en el lugar correcto si ves `README.md`, `run_all.py` y `requirements.txt`.
+3. **Abrir la consola en esa carpeta.** En el Explorador de Windows, haz clic en la barra de direcciones, escribe `cmd` y presiona Enter.
+4. **Verificar Python.** Escribe `py --version`. Debe mostrar Python 3.10 o superior. Si da error, instala Python 3.12 desde [python.org/downloads](https://www.python.org/downloads/), marca **"Add python.exe to PATH"** en el instalador y vuelve a abrir la consola.
+5. **Crear el entorno e instalar dependencias:**
+   ```bat
+   py -m venv .venv
+   .venv\Scripts\activate
+   python -m pip install --upgrade pip
+   pip install -r requirements.txt
+   ```
+   Tras `activate`, la línea empieza con `(.venv)`.
+6. **Copiar la base** del laboratorio a `data\raw\base_usdclp.xlsx` (nombre exacto).
+7. **Ejecutar:**
+   ```bat
+   python run_all.py --rapido
+   ```
+   Al terminar, la señal del día queda en `reports\senal_del_dia.json` y las estadísticas en `reports\tables`. Para el notebook: `jupyter notebook Backtest_USDCLP.ipynb` → *Kernel → Restart & Run All*.
+
+> Si cierras la consola, al volver ábrela en la misma carpeta y ejecuta `.venv\Scripts\activate` antes de cualquier comando.
+
 ### Datos
 
 Copia la base del laboratorio en **`data/raw/base_usdclp.xlsx`** (con ese nombre exacto).
