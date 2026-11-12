@@ -28,7 +28,7 @@ Estrategia direccional de un día sobre el USD/CLP para el **Torneo de Trading F
 **Windows (PowerShell o CMD):**
 
 ```bat
-git clone https://github.com/bpavezv-colab/usdclp-challenge.git
+git clone https://github.com/bpavezv-colab/Challenge-USD-CLP.git
 cd usdclp-challenge
 python -m venv .venv
 .venv\Scripts\activate
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 **macOS / Linux:**
 
 ```bash
-git clone https://github.com/bpavezv-colab/usdclp-challenge.git
+git clone https://github.com/bpavezv-colab/Challenge-USD-CLP.git
 cd usdclp-challenge
 python3 -m venv .venv
 source .venv/bin/activate
